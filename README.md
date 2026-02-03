@@ -91,16 +91,3 @@ I enjoy creating **scalable, high-performance solutions** and continuously learn
 - **GitHub:** [subh0101](https://github.com/subh0101)
 - **Email:** skgsubha33@gmail.com
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subh0101&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh0101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh0101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
